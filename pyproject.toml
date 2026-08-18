@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "Model Context Protocol (MCP) server for IDA Pro — AI-assisted reverse engineering with Claude Code"
 readme = "README.md"
 license = "MIT"
+authors = [
+    { name = "31Benzi", email = "benzifsociety@proton.me" },
+]
+urls = { "Homepage" = "https://github.com/31Benzi/IDA-PRO-MCP", "Repository" = "https://github.com/31Benzi/IDA-PRO-MCP" }
 requires-python = ">=3.10"
 keywords = [
     "mcp",
